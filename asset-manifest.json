@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9a479abc.css",
+    "main.js": "/static/js/main.6b0e5bfc.js",
+    "static/js/787.37b6bf08.chunk.js": "/static/js/787.37b6bf08.chunk.js",
+    "static/media/private_yatch_cruise_santorini_mykonos_luxury_group (1).png": "/static/media/private_yatch_cruise_santorini_mykonos_luxury_group (1).d627cd24b70b03655be6.png",
+    "static/media/iceberg dinner.png": "/static/media/iceberg dinner.f3bf916abc5b0500e1bf.png",
+    "static/media/AM2912_dinner_couple_pyramids_egypt_luxury_176e96d7-b6e6-4698-acae-6371004d6e9f.png": "/static/media/AM2912_dinner_couple_pyramids_egypt_luxury_176e96d7-b6e6-4698-acae-6371004d6e9f.01a3c8cf2918682e569d.png",
+    "static/media/Arial.ttf": "/static/media/Arial.0f047617a8f23f8443be.ttf",
+    "static/media/background.svg": "/static/media/background.a3dcc4f87405f29dc620.svg",
+    "static/media/Poppins-LightItalic.ttf": "/static/media/Poppins-LightItalic.06592af173902b20352c.ttf",
+    "static/media/Poppins-Regular.ttf": "/static/media/Poppins-Regular.1c701c9a6b587802e3d0.ttf",
+    "static/media/Poppins-Medium.ttf": "/static/media/Poppins-Medium.b59f6a636397975c5409.ttf",
+    "static/media/Poppins-SemiBold.ttf": "/static/media/Poppins-SemiBold.5981b450a68d5134225b.ttf",
+    "static/media/hero-logo.svg": "/static/media/hero-logo.0bf9237de669613298f4497f3938fadb.svg",
+    "static/media/insta.svg": "/static/media/insta.80be297e3ff6c4aa9e8d33900d9fc828.svg",
+    "static/media/whatsapp.svg": "/static/media/whatsapp.1dd64662a0f12fc86fd86115bf1bdc17.svg",
+    "static/media/logo.PNG": "/static/media/logo.038bc7ffb9a1193b730a.PNG",
+    "static/media/twitter.svg": "/static/media/twitter.ad940ab6135e59d8111adabda45481cb.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.0ca364ffb63314d74432a0e71129c727.svg",
+    "index.html": "/index.html",
+    "main.9a479abc.css.map": "/static/css/main.9a479abc.css.map",
+    "main.6b0e5bfc.js.map": "/static/js/main.6b0e5bfc.js.map",
+    "787.37b6bf08.chunk.js.map": "/static/js/787.37b6bf08.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a479abc.css",
+    "static/js/main.6b0e5bfc.js"
+  ]
+}
